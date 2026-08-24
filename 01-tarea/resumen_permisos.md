@@ -1,0 +1,18 @@
+
+
+![Captura de terminal](lahcaptura.png)
+
+
+| Archivo / Directorio | Permisos |
+
+| `.README.txt.swp` | 664 |
+
+| `README.txt` | 664 |
+
+| `docs` | 775 |
+
+| `logs` | 775 |
+
+| `logsapp.log` | 664 |
+
+| `src` | 775 |
