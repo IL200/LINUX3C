@@ -1,0 +1,11 @@
+PERMISOS DE ~/laboratorio-cli
+=============================
+
+Archivo / Directorio   Permisos      Octal
+--------------------   ----------    -----
+.README.txt.swp        -rw-rw-r--    664
+README.txt             -rw-rw-r--    664
+docs                   drwxrwxr-x    775
+logs                   drwxrwxr-x    775
+logsapp.log            -rw-rw-r--    664
+src                    drwxrwxr-x    775
